@@ -4,3 +4,7 @@
 .venv
 .ipynb_checkpoints
 .ipynb_checkpoints/
+
+best_model_SavedModel_format/*
+
+*h5
