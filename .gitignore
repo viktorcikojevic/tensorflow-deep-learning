@@ -5,6 +5,16 @@
 .ipynb_checkpoints
 .ipynb_checkpoints/
 
+__pycache__/*
+
 best_model_SavedModel_format/*
 
 *h5
+
+*zip
+*_MACOS*
+*pizza_steak*
+model_logs/*
+10_food*
+saved_model/*
+tf_hub/*
